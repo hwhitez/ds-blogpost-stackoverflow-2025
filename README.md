@@ -19,7 +19,7 @@ pandas, numpy, matplotlib, seaborn, scikit-learn
 - Key negative signals: student status, very small org size, in-person work
 
 ## Blog Post
-
+https://medium.com/@h.whitez/new-data-science-proyect-crisp-dm-what-predicts-a-high-salary-551bda444e80
 
 ## Acknowledgements
 Thanks to Stack Overflow for making the survey data publicly available.
