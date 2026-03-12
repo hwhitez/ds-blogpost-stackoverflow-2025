@@ -21,5 +21,24 @@ pandas, numpy, matplotlib, seaborn, scikit-learn
 ## Blog Post
 https://medium.com/@h.whitez/new-data-science-proyect-crisp-dm-what-predicts-a-high-salary-551bda444e80
 
+## Data Source
+This project uses the Stack Overflow Developer Survey 2025 dataset.
+
+Download the data from the official source:
+https://survey.stackoverflow.co/
+
+Files needed:
+- survey_results_public.csv
+- survey_results_schema.csv
+
+## How to run
+1) Download the CSV files from the link above.
+2) Place `survey_results_public.csv` and `survey_results_schema.csv` in the same folder as the notebook (or in a /data folder).
+3) Run `analysis.ipynb`.
+
 ## Acknowledgements
 Thanks to Stack Overflow for making the survey data publicly available.
+
+## Note
+survey_results_public.csv is not included in this repo due to GitHub size limits
+
