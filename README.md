@@ -9,7 +9,6 @@ Stack Overflow Annual Developer Survey 2025 (`survey_results_public.csv`, `surve
 ## Files
 - `analysis.ipynb`: notebook with full CRISP-DM workflow (EDA, cleaning, modeling, evaluation, scenario).
 - `survey_results_schema.csv`: data dictionary (questions per column).
-- (Optional) `images/`: exported plots for README/blog.
 
 ## Libraries
 pandas, numpy, matplotlib, seaborn, scikit-learn
@@ -20,7 +19,7 @@ pandas, numpy, matplotlib, seaborn, scikit-learn
 - Key negative signals: student status, very small org size, in-person work
 
 ## Blog Post
-<pon aquí el link a tu post>
+
 
 ## Acknowledgements
 Thanks to Stack Overflow for making the survey data publicly available.
